@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+pod 'FBSDKCoreKit', '~> 8.0.0'
+pod 'FBSDKLoginKit', '~> 8.0.0'
+pod 'FBSDKShareKit', '~> 8.0.0'
+pod 'FBSDKGamingServiceKit', '~> 8.0.0'
 <!--
 **achaubooks/Achaubooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
